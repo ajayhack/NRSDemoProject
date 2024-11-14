@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NRSDemoProject</string>
+    <string name="navBarTitle">IDT Exam</string>
+    <string name="search_state_hint">Search a State</string>
+    <string name="openSecondScreenHint">open in second screen</string>
+    <string name="stateNamePlaceholderHint">State Name:</string>
+    <string name="stateOverAllPopulationPlaceholderHint">State OverAll Population:</string>
+    <string name="numberOfCountriesPlaceholderHint">Number Of Countries:</string>
+    <string name="totalCountryPopulationPlaceHolderHint">Total Of Country Population:</string>
+    <string name="stateEqualCountriesTotalPlaceHolderHint">State == Countries Total?:</string>
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    android:id="@+id/container"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:padding="4dp">
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/stateNameButton"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:autofillHints="name"
+        android:textAllCaps="false"
+        android:gravity="start|center_vertical"
+        android:paddingStart="8dp"
+        android:paddingEnd="8dp"
+        android:shadowColor="@color/white"
+        android:background="@color/white"
+        android:text="@string/openSecondScreenHint"
+        android:textColor="@color/grey"
+        android:textSize="14sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"/>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

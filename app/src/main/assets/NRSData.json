@@ -1,0 +1,179 @@
+{
+  "data":[
+
+    {
+      "state":"Alabama",
+      "population":4833722,
+      "counties":67,
+      "detail":"http:\/\/pos.idtretailsolutions.com\/countytest\/states\/Alabama"
+    },
+
+    {
+      "state":"Alaska",
+      "population":735132,
+      "counties":29,
+      "detail":"http:\/\/pos.idtretailsolutions.com\/countytest\/states\/Alaska"
+    },
+
+    {
+      "state":"Arizona",
+      "population":6626624,
+      "counties":15,
+      "detail":"http:\/\/pos.idtretailsolutions.com\/countytest\/states\/Arizona"
+    },
+
+    {
+      "state":"Arkansas",
+      "population":2959373,
+      "counties":75,
+      "detail":"http:\/\/pos.idtretailsolutions.com\/countytest\/states\/Arkansas"
+    },
+
+    {
+      "state":"California",
+      "population":38332521,
+      "counties":58,
+      "detail":"http:\/\/pos.idtretailsolutions.com\/countytest\/states\/California"
+    },
+
+    {
+      "state":"Colorado",
+      "population":5268367,
+      "counties":64,
+      "detail":"http:\/\/pos.idtretailsolutions.com\/countytest\/states\/Colorado"
+    },
+
+    {
+      "state":"Connecticut",
+      "population":3596080,
+      "counties":8,
+      "detail":"http:\/\/pos.idtretailsolutions.com\/countytest\/states\/Connecticut"
+    },
+
+    {
+      "state":"Delaware",
+      "population":925749,
+      "counties":3,
+      "detail":"http:\/\/pos.idtretailsolutions.com\/countytest\/states\/Delaware"
+    },
+
+    {
+      "state":"District of Columbia",
+      "population":646449,
+      "counties":1,
+      "detail":"http:\/\/pos.idtretailsolutions.com\/countytest\/states\/District+of+Columbia"
+    },
+
+    {
+      "state":"Florida",
+      "population":19552860,
+      "counties":67,
+      "detail":"http:\/\/pos.idtretailsolutions.com\/countytest\/states\/Florida"
+    },
+
+    {
+      "state":"Georgia",
+      "population":9992167,
+      "counties":159,
+      "detail":"http:\/\/pos.idtretailsolutions.com\/countytest\/states\/Georgia"
+    },
+
+    {
+      "state":"Hawaii",
+      "population":1404054,
+      "counties":5,
+      "detail":"http:\/\/pos.idtretailsolutions.com\/countytest\/states\/Hawaii"
+    },
+
+    {
+      "state":"Idaho",
+      "population":1612136,
+      "counties":44,
+      "detail":"http:\/\/pos.idtretailsolutions.com\/countytest\/states\/Idaho"
+    },
+
+    {
+      "state":"Illinois",
+      "population":12882135,
+      "counties":102,
+      "detail":"http:\/\/pos.idtretailsolutions.com\/countytest\/states\/Illinois"
+    },
+
+    {
+      "state":"Indiana",
+      "population":6570902,
+      "counties":92,
+      "detail":"http:\/\/pos.idtretailsolutions.com\/countytest\/states\/Indiana"
+    },
+
+    {
+      "state":"Iowa",
+      "population":3090415,
+      "counties":99,
+      "detail":"http:\/\/pos.idtretailsolutions.com\/countytest\/states\/Iowa"
+    },
+
+    {
+      "state":"Kansas",
+      "population":2893957,
+      "counties":105,
+      "detail":"http:\/\/pos.idtretailsolutions.com\/countytest\/states\/Kansas"
+    },
+
+    {
+      "state":"Kentucky",
+      "population":4395295,
+      "counties":120,
+      "detail":"http:\/\/pos.idtretailsolutions.com\/countytest\/states\/Kentucky"
+    },
+
+    {
+      "state":"Louisiana",
+      "population":4625470,
+      "counties":64,
+      "detail":"http:\/\/pos.idtretailsolutions.com\/countytest\/states\/Louisiana"
+    },
+
+    {
+      "state":"Maine",
+      "population":1328302,
+      "counties":16,
+      "detail":"http:\/\/pos.idtretailsolutions.com\/countytest\/states\/Maine"
+    },
+
+    {
+      "state":"Maryland",
+      "population":5928814,
+      "counties":24,
+      "detail":"http:\/\/pos.idtretailsolutions.com\/countytest\/states\/Maryland"
+    },
+
+    {
+      "state":"Massachusetts",
+      "population":6692824,
+      "counties":14,
+      "detail":"http:\/\/pos.idtretailsolutions.com\/countytest\/states\/Massachusetts"
+    },
+
+    {
+      "state":"Michigan",
+      "population":9895622,
+      "counties":83,
+      "detail":"http:\/\/pos.idtretailsolutions.com\/countytest\/states\/Michigan"
+    },
+
+    {
+      "state":"Minnesota",
+      "population":5420380,
+      "counties":87,
+      "detail":"http:\/\/pos.idtretailsolutions.com\/countytest\/states\/Minnesota"
+    },
+
+    {
+      "state":"Mississippi",
+      "population":2991207,
+      "counties":82,
+      "detail":"http:\/\/pos.idtretailsolutions.com\/countytest\/states\/Mississippi"
+    }
+  ]
+}
